@@ -5,7 +5,7 @@ Interactive web app that visualizes how Genetic Algorithms solve the 0/1 Knapsac
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-18.x-61dafb.svg)
 
-**[Live Demo](#https://isaamrat.github.io/knapsack-visualizer/)**
+**[Live Demo](https://isaamrat.github.io/knapsack-visualizer/)**
 
 ---
 
